@@ -5,3 +5,5 @@ A quadtree is a way of organizing a two-dimensional space by breaking it down in
 
 To create a quadtree, we need to define the boundaries of the space we want to partition, and a function that determines how to split a space into four quadrants. We also need to decide how to store the data associated with each leaf node, and how to traverse the tree to access or modify the data. There are different types of quadtrees, such as region quadtrees, point quadtrees, line quadtrees, and curve quadtrees, depending on the type and shape of the data they represent.
 
+<img src="demo/demo.gif" alt="Demo">
+
